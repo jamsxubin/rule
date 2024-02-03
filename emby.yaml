@@ -1,0 +1,45 @@
+# NAME: Emby
+
+payload:
+  - DOMAIN-KEYWORD,ccemby #cc公益
+  - DOMAIN-SUFFIX,carryz.net #cc公益
+  - IP-CIDR,172.67.147.228/32 #cc公益
+  - IP-CIDR,104.21.28.238/32 #cc公益
+  - IP-CIDR,129.150.48.48/32 #cc公益
+  - DOMAIN-SUFFIX,123456.al #TreeDiadram
+  - IP-CIDR,104.21.74.160/32 #TreeDiadram
+  - IP-CIDR,172.67.159.221/32 #TreeDiadram
+  - DOMAIN-SUFFIX,emby.misakaf.org #Misakaf
+  - DOMAIN-SUFFIX,push-kr.misakaf.org #Misakaf
+  - DOMAIN-SUFFIX,stream3.misakaf.org #Misakaf
+  - IP-CIDR,102.223.180.108/32  #Misakaf
+  - DOMAIN-KEYWORD,embymv #peach
+  - IP-CIDR,193.123.232.141/32 #peach
+  - IP-CIDR,141.147.166.107/32 #peach
+  - DOMAIN-SUFFIX,ohhhh.org #NMEmby
+  - IP-CIDR,172.67.212.126/32 #NMEmby
+  - IP-CIDR,104.21.16.126/32 #NMEmby
+  - DOMAIN-KEYWORD,mjjemby #MJJ
+  - IP-CIDR,104.21.71.27/32 #MJJ
+  - IP-CIDR,85.239.235.232/32 #MJJ
+  - DOMAIN-SUFFIX,jmsooo.com #卷毛鼠
+  - IP-CIDR,104.21.234.86/32 #卷毛鼠
+  - DOMAIN-SUFFIX,emby.wtf #终点站
+  - IP-CIDR,23.88.126.13/32 #终点站
+  - DOMAIN-SUFFIX,embyplus.org #纸片人
+  - DOMAIN-SUFFIX,gd.9521732.xyz  #纸片人
+  - IP-CIDR,172.67.197.145/32  #纸片人
+  - IP-CIDR,104.21.52.93/32  #纸片人
+  - IP-CIDR,89.58.18.111/32  #纸片人
+  - DOMAIN-KEYWORD,pilipiliultra  #PiliPili
+  - IP-CIDR,202.61.203.218/32  #PiliPili
+  - DOMAIN-SUFFIX,otv.icu #Orange
+  - IP-CIDR,147.78.247.122/32 #Orange
+  - IP-CIDR,176.119.148.240/32 #Orange
+  - IP-CIDR,45.66.130.30/32 #Orange
+  - IP-CIDR,147.78.245.247/32 #Orange
+  - IP-CIDR,176.119.150.180/32 #Orange
+  - DOMAIN-SUFFIX,charontv.com #Charon
+  
+
+

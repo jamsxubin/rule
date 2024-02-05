@@ -40,6 +40,5 @@ payload:
   - IP-CIDR,147.78.245.247/32 #Orange
   - IP-CIDR,176.119.150.180/32 #Orange
   - DOMAIN-SUFFIX,charontv.com #Charon
-  
-
+  - IP-CIDR,172.67.221.252/32 #Paul
 

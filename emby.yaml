@@ -13,7 +13,7 @@ payload:
   - DOMAIN-SUFFIX,push-kr.misakaf.org #Misakaf
   - DOMAIN-SUFFIX,stream3.misakaf.org #Misakaf
   - IP-CIDR,102.223.180.108/32  #Misakaf
-  - DOMAIN-KEYWORD,embymv #peach
+  - DOMAIN-KEYWORD,peachmv #peach
   - IP-CIDR,193.123.232.141/32 #peach
   - IP-CIDR,141.147.166.107/32 #peach
   - DOMAIN-SUFFIX,ohhhh.org #NMEmby

@@ -34,6 +34,7 @@ payload:
   - IP-CIDR,104.21.52.93/32  #纸片人
   - IP-CIDR,89.58.18.111/32  #纸片人
   - DOMAIN-KEYWORD,pilipili  #PiliPili
+  - DOMAIN-KEYWORD,stream_pilipili  #PiliPili
   - IP-CIDR,202.61.203.218/32  #PiliPili
   - DOMAIN-SUFFIX,otv.icu #Orange
   - IP-CIDR,147.78.247.122/32 #Orange

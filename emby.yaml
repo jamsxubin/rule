@@ -46,4 +46,5 @@ payload:
   - IP-CIDR,172.67.221.252/32 #Paul
   - IP-CIDR,104.21.38.104/32 #Paul
   - DOMAIN-SUFFIX,bangumi.ca #NyaMedia
+  - DOMAIN-KEYWORD,lyrebirdemby #lyrebird
 

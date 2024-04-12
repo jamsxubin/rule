@@ -1,6 +1,7 @@
 # NAME: Emby
 
 payload:
+  - DOMAIN-KEYWORD,emby 
   - DOMAIN-KEYWORD,ccemby #cc公益
   - DOMAIN-SUFFIX,carryz.net #cc公益
   - DOMAIN-SUFFIX,coemn.com #cc公益

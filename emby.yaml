@@ -50,4 +50,7 @@ payload:
   - DOMAIN-KEYWORD,lyrebirdemby #lyrebird
   - IP-CIDR,152.53.19.231/32 #飞跃彩虹
   - DOMAIN-KEYWORD,micu #MICU
+  - DOMAIN-KEYWORD,catlinks #StarCat
+
+  
 

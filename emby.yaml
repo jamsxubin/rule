@@ -50,6 +50,8 @@ payload:
   - DOMAIN-SUFFIX,bangumi.ca #NyaMedia
   - DOMAIN-KEYWORD,lyrebirdemby #lyrebird
   - IP-CIDR,152.53.19.231/32 #飞跃彩虹
+  - DOMAIN-KEYWORD,7777777 # 飞越彩虹
+  - DOMAIN-KEYWORD,581658 # 飞越彩虹
   - DOMAIN-KEYWORD,micu #MICU
   - DOMAIN-KEYWORD,catlinks #StarCat
 

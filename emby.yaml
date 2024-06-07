@@ -53,6 +53,7 @@ payload:
   - DOMAIN-KEYWORD,581658 # 飞越彩虹
   - DOMAIN-KEYWORD,micu #MICU
   - DOMAIN-KEYWORD,catlinks #StarCat
+  - DOMAIN-SUFFIX,miui.ovh #野兽餐厅
 
   
 

@@ -54,6 +54,7 @@ payload:
   - IP-CIDR,5.45.109.91/32 #飞跃彩虹
   - DOMAIN-KEYWORD,micu #MICU
   - DOMAIN-KEYWORD,catlinks #StarCat
+  - DOMAIN-KEYWORD,puddingcat #StarCat
   - DOMAIN-SUFFIX,miui.ovh #野兽餐厅
 
   

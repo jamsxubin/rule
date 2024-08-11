@@ -33,6 +33,7 @@ payload:
   - DOMAIN-SUFFIX,embyplus.org #纸片人
   - DOMAIN-SUFFIX,gd.9521732.xyz  #纸片人
   - IP-CIDR,172.67.197.145/32  #纸片人
+  - IP-CIDR,142.171.30.126/32 #纸片人
   - IP-CIDR,104.21.52.93/32  #纸片人
   - IP-CIDR,89.58.18.111/32  #纸片人
   - DOMAIN-KEYWORD,pilipili  #PiliPili

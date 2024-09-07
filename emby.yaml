@@ -28,6 +28,7 @@ payload:
   - IP-CIDR,104.21.71.27/32 #MJJ
   - IP-CIDR,85.239.235.232/32 #MJJ
   - DOMAIN-SUFFIX,jmsooo.com #卷毛鼠
+  - DOMAIN-SUFFIX,jmsuper.com #卷毛鼠
   - IP-CIDR,104.21.234.86/32 #卷毛鼠
   - DOMAIN-SUFFIX,emby.wtf #终点站
   - IP-CIDR,23.88.126.13/32 #终点站

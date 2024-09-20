@@ -31,6 +31,7 @@ payload:
   - DOMAIN-SUFFIX,jmsuper.com #卷毛鼠
   - IP-CIDR,104.21.234.86/32 #卷毛鼠
   - DOMAIN-SUFFIX,emby.wtf #终点站
+  - DOMAIN-SUFFIX,term.wtf #终点站
   - IP-CIDR,23.88.126.13/32 #终点站
   - DOMAIN-SUFFIX,embyplus.org #纸片人
   - DOMAIN-SUFFIX,gd.9521732.xyz  #纸片人

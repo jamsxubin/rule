@@ -62,6 +62,7 @@ payload:
   - DOMAIN-SUFFIX,miui.ovh #野兽餐厅
   - DOMAIN-SUFFIX,811861.xyz  #AWA
   - IP-CIDR,38.58.181.218/32  #AWA
+  - DOMAIN-SUFFIX,nanflix.net #天南小筑
 
   
 

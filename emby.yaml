@@ -54,6 +54,7 @@ payload:
   - IP-CIDR,104.21.38.104/32 #Paul
   - DOMAIN-SUFFIX,bangumi.ca #NyaMedia
   - DOMAIN-KEYWORD,lyrebirdemby #lyrebird
+  - IP-CIDR,167.235.116.53/32 #lyrebird
   - DOMAIN-KEYWORD,7777777 # 飞越彩虹
   - DOMAIN-KEYWORD,581658 # 飞越彩虹
   - IP-CIDR,5.45.109.91/32 #飞跃彩虹

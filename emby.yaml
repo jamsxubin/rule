@@ -21,6 +21,7 @@ payload:
   - IP-CIDR,141.147.166.107/32 #peach
   - IP-CIDR,168.138.45.100/32 #peach
   - IP-CIDR,152.53.39.134/32 #peach
+  - IP-CIDR,152.53.53.211/32 #peach
   - DOMAIN-SUFFIX,ohhhh.org #NMEmby
   - DOMAIN-SUFFIX,hovervan.org #NMEmby
   - IP-CIDR,172.67.212.126/32 #NMEmby

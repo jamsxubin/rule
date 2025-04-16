@@ -2,6 +2,8 @@
   "name":"emby专用",
   "icons":[    
     {"name":"sdx", "url":"https:\/\/raw.githubusercontent.com\/jamsxubin\/rule\/main\/icon\/sdx.jpg"},
-    {"name":"sdl", "url":"https:\/\/raw.githubusercontent.com\/jamsxubin\/rule\/main\/icon\/sdl.jpg"}  
+    {"name":"sdl", "url":"https:\/\/raw.githubusercontent.com\/jamsxubin\/rule\/main\/icon\/sdl.jpg"},
+    {"name":"AlphaTV", "url":"https:\/\/raw.githubusercontent.com\/jamsxubin\/rule\/main\/icon\/AlphaTV.jpg"}  
+
  ]
 }

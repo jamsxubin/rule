@@ -2,7 +2,8 @@
   "name":"emby专用",
   "icons":[    
     {"name":"daobi", "url":"https://raw.githubusercontent.com/jamsxubin/rule/main/icon/daobi.jpg"},
-    {"name":"daobi1", "url":"https://raw.githubusercontent.com/jamsxubin/rule/main/icon/daobi%201.png"}
+    {"name":"daobi1", "url":"https://raw.githubusercontent.com/jamsxubin/rule/main/icon/daobi%201.png"},
+    {"name":"daobi1", "url":"https://https://raw.githubusercontent.com/jamsxubin/rule/refs/heads/main/icon/nanflix.png"}
 
  ]
 }

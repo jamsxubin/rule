@@ -8,9 +8,6 @@ payload:
   - DOMAIN-SUFFIX,emby.wtf #终点站
   - DOMAIN-SUFFIX,term.wtf #终点站
   - IP-CIDR,23.88.126.13/32 #终点站
-  - DOMAIN-KEYWORD,pilipili  #PiliPili
-  - DOMAIN-SUFFIX,stream_pilipili.misakaf.org  #PiliPili
-  - IP-CIDR,202.61.203.218/32  #PiliPili
   - DOMAIN-SUFFIX,bangumi.ca #NyaMedia
   - DOMAIN-SUFFIX,favoritewife.com #起点站
   - DOMAIN-SUFFIX,jingzhe.pro  #惊蛰

@@ -25,9 +25,6 @@ payload:
   - DOMAIN-SUFFIX,stream_pilipili.misakaf.org  #PiliPili
   - IP-CIDR,202.61.203.218/32  #PiliPili
   - DOMAIN-SUFFIX,bangumi.ca #NyaMedia
-  - DOMAIN-KEYWORD,lyrebirdemby #lyrebird
-  - IP-CIDR,167.235.116.53/32 #lyrebird
-  - DOMAIN-KEYWORD,micu #MICU
   - DOMAIN-SUFFIX,favoritewife.com #起点站
   - DOMAIN-SUFFIX,jingzhe.pro  #惊蛰
   - DOMAIN-SUFFIX,nebula-media.org #nebula

@@ -8,10 +8,6 @@ payload:
   - DOMAIN-SUFFIX,emby.wtf #终点站
   - DOMAIN-SUFFIX,term.wtf #终点站
   - IP-CIDR,23.88.126.13/32 #终点站
-  - DOMAIN-SUFFIX,bangumi.ca #NyaMedia
-  - DOMAIN-SUFFIX,favoritewife.com #起点站
-  - DOMAIN-SUFFIX,jingzhe.pro  #惊蛰
-  - DOMAIN-SUFFIX,nebula-media.org #nebula
   
   
 

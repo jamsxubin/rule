@@ -1,10 +1,8 @@
 {
-  "name":"emby专用",
+  "name":"emby自用",
   "icons":
   [    
-    {"name":"daobi1", "url":"https://raw.githubusercontent.com/jamsxubin/rule/main/icon/daobi%201.png"},
-    {"name":"nanflix", "url":"https://raw.githubusercontent.com/jamsxubin/rule/main/icon/nanflix.png"},
-    {"name":"newship", "url":"https://raw.githubusercontent.com/jamsxubin/rule/main/icon/newship.png"}
+    {"name":"SDL+", "url":"https://raw.githubusercontent.com/jamsxubin/rule/refs/heads/main/icon/Sdl%2B.png"}
 
   ]
 }

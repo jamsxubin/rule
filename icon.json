@@ -2,7 +2,8 @@
   "name":"emby自用",
   "icons":
   [    
-    {"name":"SDL+", "url":"https://raw.githubusercontent.com/jamsxubin/rule/refs/heads/main/icon/Sdl%2B.png"}
+    {"name":"SDL+", "url":"https://raw.githubusercontent.com/jamsxubin/rule/refs/heads/main/icon/Sdl%2B.png"},
+    {"name":"wenjian115", "url":"https://raw.githubusercontent.com/jamsxubin/rule/refs/heads/main/icon/wenjian115.png"}  
 
   ]
 }
